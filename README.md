@@ -30,3 +30,8 @@ This project provided hands-on experience in transforming raw data into actionab
 ## Project Files
 - retail_sales_analysis.ipynb  
 - Analytical Insight Report.pdf
+
+## Visualizations
+- Revenue by Region  
+- Revenue by Category  
+- Monthly Sales Trend
